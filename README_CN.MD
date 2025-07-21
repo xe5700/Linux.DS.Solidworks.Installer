@@ -1,6 +1,6 @@
 # Linux DS SolidWorks 安装器 (Linux DS Solidworks Installer)
 [![Banner](screenshots/banner.png "Linux DS SolidWorks 安装器 Banner")](https://github.com/xe5700/Linux.DS.Solidworks.Installer/)
- [中文](https://github.com/xe5700/Linux.DS.Solidworks.Installer/README_CN.MD)|[English](https://github.com/xe5700/Linux.DS.Solidworks.Installer/README.MD) 
+ [中文](https://github.com/xe5700/Linux.DS.Solidworks.Installer/blob/main/README_CN.MD)|[English](https://github.com/xe5700/Linux.DS.Solidworks.Installer/blob/main/README.MD) 
 
 ## 致谢
 感谢项目 [SOLIDWORKS-for-Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux) 本项目参考了该项目进行制作，并且改进了安装步骤，提高安装的成功率和运行成功率。
