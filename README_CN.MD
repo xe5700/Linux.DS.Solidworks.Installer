@@ -1,4 +1,6 @@
 # Linux DS SolidWorks 安装器 (Linux DS Solidworks Installer)
+[![Banner](screenshots/banner.png "Linux DS SolidWorks 安装器 Banner")](https://github.com/xe5700/Linux.DS.Solidworks.Installer/)
+ [中文](https://github.com/xe5700/Linux.DS.Solidworks.Installer/README_CN.MD)|[English](https://github.com/xe5700/Linux.DS.Solidworks.Installer/README.MD) 
 
 ## 致谢
 感谢项目 [SOLIDWORKS-for-Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux) 本项目参考了该项目进行制作，并且改进了安装步骤，提高安装的成功率和运行成功率。
@@ -42,3 +44,11 @@ pip3 install -r requirements.txt
 4. 根据你的版本，使用 install.sh 或 install_ds.sh 来进行安装（带补丁的版本使用 install_ds.sh，原版使用 install.sh。
 5. 手动安装完成 SolidWorks 后，进程会自动结束。选择你需要安装的额外组件，包括创建快捷方式。
 6. 安装成功后，你可以通过 start.sh 或桌面的 SolidWorks 图标来启动 SolidWorks。
+
+## 截图
+![Screenshot](screenshots/solidworks_ui_1.jpg "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/install.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/install_progress.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/desktop-icon.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/install-extra-cli.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/files.png "Linux DS SolidWorks Installer")

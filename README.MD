@@ -1,5 +1,6 @@
 
 # Linux DS SolidWorks Installer
+[![Banner](screenshots/banner.png "Linux DS SolidWorks Installer Banner")](https://github.com/xe5700/Linux.DS.Solidworks.Installer/)
  [中文](https://github.com/xe5700/Linux.DS.Solidworks.Installer/README_CN.MD)|[English](https://github.com/xe5700/Linux.DS.Solidworks.Installer/README.MD) 
 ## Acknowledgments
 Thanks to the project [SOLIDWORKS-for-Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux). This project has referenced that project for production, and improved the installation steps to increase installation success rate and runtime success rate.
@@ -39,3 +40,12 @@ To be added
 4. Depending on your version, use install.sh or install_ds.sh for installation (use install_ds.sh for patched versions and install.sh for original versions).
 5. After manually completing the SolidWorks installation, the process will end automatically. Select the additional components you need to install, including creating a shortcut.
 6. After successful installation, you can start SolidWorks via start.sh or the SolidWorks icon on the desktop.
+
+
+## Screenshots
+![Screenshot](screenshots/solidworks_ui_1.jpg "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/install.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/install_progress.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/desktop-icon.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/install-extra-cli.png "Linux DS SolidWorks Installer")
+![Screenshot](screenshots/files.png "Linux DS SolidWorks Installer")
